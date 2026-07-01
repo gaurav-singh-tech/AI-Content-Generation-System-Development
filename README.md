@@ -71,7 +71,7 @@ Get your key at: https://console.anthropic.com/
 python content_generator.py
 ```
 
-**Full demo (all content types):**
+**Full demo (all content types):** 
 ```bash
 python demo.py
 ```
