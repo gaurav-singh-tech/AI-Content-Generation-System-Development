@@ -138,6 +138,6 @@ MBA – AI & Data Science | Graphic Era University
 
 ---
 
-## 📄 License
+## 📄 License 
 
 MIT License — free to use and modify.
